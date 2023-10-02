@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDashboardAspNetCore", "WebDashboardAspNetCore\WebDashboardAspNetCore.csproj", "{180A4C90-470B-4FD8-83D9-89DF728AD859}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{D38C914D-978B-401C-BB32-DD80CD4A9F0C}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\Public\Documents\DevExpress Demos 23.1\Components\Data\nwind.xml = ..\..\..\..\Public\Documents\DevExpress Demos 23.1\Components\Data\nwind.xml
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Dashboards", "Dashboards", "{A4B643A4-7D9F-481C-A77A-7A195A0BEAF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{180A4C90-470B-4FD8-83D9-89DF728AD859}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{180A4C90-470B-4FD8-83D9-89DF728AD859}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{180A4C90-470B-4FD8-83D9-89DF728AD859}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{180A4C90-470B-4FD8-83D9-89DF728AD859}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A4B643A4-7D9F-481C-A77A-7A195A0BEAF9} = {D38C914D-978B-401C-BB32-DD80CD4A9F0C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F868EA00-5323-4E1B-9023-8D51BFD9C2F4}
+	EndGlobalSection
+EndGlobal
